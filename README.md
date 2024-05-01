@@ -4,11 +4,20 @@
 
 # Portfolio
 
-Welcome to my portfolio! I'm passionate about [Your Interests or Specializations] and enjoy bringing ideas to life through code.
+# Carlos Lopez Barbera
+Welcome to my portfolio! My name is Carlos Lopez  There is a little summary of my journey through Data Science, Python and some experience in the Enginering field. 
 
-## About Me
+Data-driven models are making a giant impact in the business, and are totally able to obtain relations and insights from data.
+In my humble opinion, it's a great opportunity to learn new fields and technologies to apply in engineering. 
+This might add value in all stages of a project and that's the reason when I started to introduce myself in Data Science with Python.
 
-I'm [Your Name], a [Your Profession or Role] with a strong background in [Your Field or Industry]. I specialize in [Your Specialization or Skills] and love to [Describe Your Passion or Interests]. I'm currently exploring [Specific Technologies or Areas of Interest] and always excited to collaborate on new projects.
+
+## About Me 
+
+🚀 Passionate about the engineering field and fascinated by the powerful insights of Data Science, aiming to combine both fields. Masters in IA and Data Science.
+
+🔊🔧 Bachelor/Degree in Mechanical Engineering, specializing in Acoustics, and over four years of hands-on experience gained in the UK.
+
 
 ## Projects
 
