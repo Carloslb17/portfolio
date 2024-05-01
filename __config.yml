@@ -1,0 +1,31 @@
+# Site settings
+title: Your Site Title
+description: Your site description
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# GitHub Pages settings
+remote_theme: jekyll/minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Pagination settings
+paginate: 10
+
+# Customize as needed
