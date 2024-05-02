@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Logo" width="80" height="80">
 </p>
 
-# Portfolio
+# Portfolio 🚧 (construction in progress)
 
 # Carlos Lopez Barbera
 Welcome to my portfolio! My name is Carlos Lopez  There is a little summary of my journey through Data Science, Python and some experience in the Enginering field. 
@@ -43,34 +43,31 @@ This might add value in all stages of a project and that's the reason when I sta
 
 ## Skills
 
-- List of your skills or technologies you're proficient in.
-- You can categorize them if needed.
+- Curiosity and continuous learning.
+- Collaboration and Teamwork. 
 
 ## Experience
 
-### [Company Name] - [Position]
+### Navantia - Junior Data Scientist
 
-- **Duration:** [Start Date] - [End Date]
-- **Description:** Brief description of your role and responsibilities.
+**Duration:** September 2023 - Nowadays
+**Description:** Brief description of your role and responsibilities.
 
-### [Company Name] - [Position]
+- Treatment, management, and Analysis of large volumes of data related to vibrations (Pandas and Dask).
+- Creation of the end-to-end project lifecycle related to behavior models and creation of associated documentation.
+- Application of filters related to techniques in Digital Signal Processing to eliminate high or low-frequency components as required.
 
-- **Duration:** [Start Date] - [End Date]
-- **Description:** Brief description of your role and responsibilities.
+### NOVA Acoustics Ltd - Acoustic Consultant (AMIOA)
 
-<!-- Add more experiences as needed -->
+**Duration:** December 2018 - December 2022
+**Description:**
+- Conducted end-to-end projects related with Acoustics, combined with the creation of scripts in MATLAB to improve the pre-processing tasks. 
+<!-- Add more experiences 2as needed -->
 
 ## Contact Me
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Portfolio:** [Link to your portfolio website]
+- **Email:** carloslbnm@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/carlos-lopez-barbera-6b1329107))
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project!
 
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Portfolio:** [Link to your portfolio website]
-
-Feel free to reach out to me if you have any questions or would like to collaborate on a project!
