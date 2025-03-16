@@ -46,23 +46,6 @@ This might add value in all stages of a project and that's the reason when I sta
 - Curiosity and continuous learning.
 - Collaboration and Teamwork. 
 
-## Experience
-
-### Navantia - Junior Data Scientist
-
-**Duration:** September 2023 - Nowadays
-**Description:** Brief description of your role and responsibilities.
-
-- Treatment, management, and Analysis of large volumes of data related to vibrations (Pandas and Dask).
-- Creation of the end-to-end project lifecycle related to behavior models and creation of associated documentation.
-- Application of filters related to techniques in Digital Signal Processing to eliminate high or low-frequency components as required.
-
-### NOVA Acoustics Ltd - Acoustic Consultant (AMIOA)
-
-**Duration:** December 2018 - December 2022
-**Description:**
-- Conducted end-to-end projects related with Acoustics, combined with the creation of scripts in MATLAB to improve the pre-processing tasks. 
-<!-- Add more experiences 2as needed -->
 
 ## Contact Me
 
