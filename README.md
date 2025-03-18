@@ -18,33 +18,21 @@ This might add value in all stages of a project and that's the reason when I sta
 
 🔊🔧 Bachelor/Degree in Mechanical Engineering, specializing in Acoustics, and over four years of hands-on experience gained in the UK.
 
+## 🚀 Python
+I love using Python to solve real-world problems, whether it's data analysis, building ML models, or automating workflows. I’ve worked with Pandas, NumPy, Scikit-Learn, TensorFlow, and more. Always looking to improve and write cleaner, more efficient code.
 
-## Projects
+## 📊 Kaggle
+I enjoy exploring datasets and experimenting with different modeling techniques. Still growing my Kaggle profile, but I’m excited to tackle more competitions and share insightful notebooks.
 
-### Project 1: [Project Name]
+## 🤖 Machine Learning
+Fascinated by how ML can complement engineering and real-time systems. I’m particularly interested in hybrid modeling—combining physics-based models with ML to get the best of both worlds.
 
-- **Description:** Brief description of the project.
-- **Skills Used:** List of technologies or skills used.
-- **GitHub Repository:** [Link to GitHub repository]
-- **Live Demo:** [Link to live demo if available]
+## 🤝 Collaborative Projects
+I believe the best way to learn is by building with others. Open to collaborating on Data Science, MLOps, or engineering-focused projects. If you're working on something interesting, let’s connect!
 
-![Project 1 Screenshot](/images/project1.jpg)
+## 🔧 GitHub Improvement
+Currently revamping my GitHub to better showcase my projects. Splitting things into structured sections so everything is clear and easy to navigate. Always looking for ways to improve!
 
-### Project 2: [Project Name]
-
-- **Description:** Brief description of the project.
-- **Skills Used:** List of technologies or skills used.
-- **GitHub Repository:** [Link to GitHub repository]
-- **Live Demo:** [Link to live demo if available]
-
-![Project 2 Screenshot](/images/project2.jpg)
-
-<!-- Add more projects as needed -->
-
-## Skills
-
-- Curiosity and continuous learning.
-- Collaboration and Teamwork. 
 
 
 ## Contact Me
