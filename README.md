@@ -1,13 +1,7 @@
-<p align="center">
-  <img src="logo.png" alt="Logo" width="80" height="80">
-</p>
-
-# Portfolio 🚧 (construction in progress)
-
 # Carlos Lopez Barbera
-Welcome to my portfolio! My name is Carlos Lopez  There is a little summary of my journey through Data Science, Python and some experience in the Enginering field. 
+Welcome to my portfolio! My name is Carlos Lopez and  this is a little summary of my journey through Data Science, Python and some experience in the Enginering field. 
 
-Data-driven models are making a giant impact in the business, and are totally able to obtain relations and insights from data.
+Data-driven models are making a giant impact in business and are totally capable of obtaining relations and insights from data.
 In my humble opinion, it's a great opportunity to learn new fields and technologies to apply in engineering. 
 This might add value in all stages of a project and that's the reason when I started to introduce myself in Data Science with Python.
 
