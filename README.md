@@ -1,9 +1,6 @@
-# Welcome to my portfolio! 
+# Bridging Engineering & AI – My Portfolio  
 
-My name is Carlos Lopez and this is a brief summary of my journey through Data Science, Python and some experience in the Enginering field. 
-
-Data-driven models are making a giant impact in business and are totally capable of obtaining relations and insights from data.
-It's a great opportunity to learn new fields and technologies to apply in engineering. 
+Welcome! I'm Carlos López, an engineer-turned-data-scientist passionate about leveraging AI to solve complex engineering challenges. This portfolio showcases my journey in **Data Science, Python, and Engineering**. 
 
 ## About Me 
 
@@ -24,7 +21,7 @@ Template final project from 'Taking Python to production Onborading guide' from 
   - **Shell Scripting** – Automated key development and deployment processes.  
 
 ## 📊 Kaggle
-KAggle is a good place to explore datasets and experimenting with different modeling techniques. Still growing my Kaggle profile, but I’m excited to tackle more competitions and share insightful notebooks:
+Kaggle is a good place to explore datasets and experimenting with different modeling techniques. Still growing my Kaggle profile, but I’m excited to tackle more competitions and share insightful notebooks:
 
 - [Comparison of Machine Learning Algorithms](https://www.kaggle.com/code/carloslopez17/titanic-notebook-comparation)
 - [Competition - Predict Health Outcomes of Horses](https://www.kaggle.com/code/carloslopez17/health-horses-eda-random-forest-gridserachcv)
